@@ -5,3 +5,7 @@
 <pre>
 hellow md
 </pre>
+
+```c
+printf("Hello world!\n");
+```
